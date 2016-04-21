@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hello Android</string>
+    <string name="download_dialog_msg">Downloading…</string>
+    <string name="example_url">https://m18.uni-weimar.de</string>
+    <string name="connectButtonCaption">Connect</string>
+    <string name="imageViewContentDesc">image</string>
+    <string name="please_enter_a_url">Please enter a URL</string>
+    <string name="hint">(hint: try text files, html documents or images)</string>
+</resources>
